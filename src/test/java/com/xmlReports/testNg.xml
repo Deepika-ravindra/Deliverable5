@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  name="Test">
+    <classes>
+      <class name="com.PageFactory.Loginpage_PF"/>
+       <class name="com.PageFactory.DashBoardPage_PF"/>
+       <class name="com.PageFactory.LeavePage_PF"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
